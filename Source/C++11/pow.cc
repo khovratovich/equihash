@@ -1,3 +1,7 @@
+/*Code by Dmitry Khovratovich, 2016
+CC0 license
+*/
+
 #include "pow.h"
 #include "blake/blake2.h"
 #include <algorithm>

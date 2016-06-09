@@ -1,6 +1,6 @@
-// Equihash PoW.cpp : Defines the entry point for the console application.
-//
-
+/*Code by Dmitry Khovratovich, 2016
+CC0 license
+*/
 #include "pow.h"
 
 #include <inttypes.h>

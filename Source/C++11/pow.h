@@ -1,3 +1,7 @@
+/*Code by Dmitry Khovratovich, 2016
+CC0 license
+*/
+
 #ifndef __POW
 #define __POW
 
