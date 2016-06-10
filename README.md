@@ -1,6 +1,6 @@
 # Equihash
 
-This is an optimimzed C++ implementation of Equihash, the [memory-hard Proof-of-Work
+This is an optimized C++ implementation of Equihash, the [memory-hard Proof-of-Work
  with fast verification](https://www.internetsociety.org/sites/default/files/blogs-media/equihash-asymmetric-proof-of-work-based-generalized-birthday-problem.pdf).
 
 Equihash is an asymmetric proof-of-work algorithm based on a computationally
