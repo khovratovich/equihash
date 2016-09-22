@@ -144,7 +144,7 @@ Proof Equihash::FindProof(){
         printf("Testing nonce %d\n", nonce);
         uint64_t start_cycles = rdtsc();
         InitializeMemory(); //allocate
-        FillMemory(5UL << (n / (k + 1)-1));   //fill with hashes
+        FillMemory(4UL << (n / (k + 1)-1));   //fill with hashes
         uint64_t fill_end = rdtsc();
         printf("Filling %2.2f  Mcycles \n", (double)(fill_end - start_cycles) / (1UL << 20));
         /*fp = fopen("proof.log", "a+");
